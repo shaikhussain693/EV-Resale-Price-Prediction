@@ -75,3 +75,24 @@ Uses  vehicle condition score to predict resale price.
 ## ▶️ How to Run
 
 1. Install dependencies:
+
+2. Run the notebook:
+- Open `ev_resale_prediction.ipynb`
+- Run all cells  
+
+---
+
+## 📷 Sample Output
+![Output](output.png)
+
+---
+
+## 💡 Key Insights
+- Detects overpriced vehicles  
+- Helps users make better pricing decisions  
+- Compares expected vs predicted price  
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how machine learning can solve real-world pricing problems using prediction models and business logic.
