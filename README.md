@@ -58,7 +58,9 @@ Uses  vehicle condition score to predict resale price.
 
 
 ## 📊 Model Performance
-- R² Score: ~0.85  
+- Condition Model R²: ~0.87  
+- Price Prediction Model R²: ~0.85  
+- MAE used to evaluate prediction accuracy
 
 ---
 
@@ -75,10 +77,14 @@ Uses  vehicle condition score to predict resale price.
 ## ▶️ How to Run
 
 1. Install dependencies:
+   pip install -r requirements.txt
 
-2. Run the notebook:
-- Open `ev_resale_prediction.ipynb`
-- Run all cells  
+2. Open Jupyter Notebook:
+   ev_resale_prediction.ipynb
+
+3. Run all cells
+
+4. Use prediction function for custom input
 
 ---
 
@@ -88,9 +94,13 @@ Uses  vehicle condition score to predict resale price.
 ---
 
 ## 💡 Key Insights
+- Predict vehicle condition score
+- Predict resale price
+- Classify pricing as Fair / Overpriced / Underpriced
 - Detects overpriced vehicles  
 - Helps users make better pricing decisions  
-- Compares expected vs predicted price  
+- Compares expected vs predicted price
+- Provides intelligent pricing insights
 
 ---
 
