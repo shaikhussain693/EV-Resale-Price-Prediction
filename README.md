@@ -104,5 +104,5 @@ Uses  vehicle condition score to predict resale price.
 
 ---
 
-## 🚀 Conclusion
-This project demonstrates how machine learning can solve real-world pricing problems using prediction models and business logic.
+## 🏁 Conclusion
+This project builds a machine learning-based system to predict EV resale value and provide pricing recommendations. By combining XGBoost predictions with business logic, it delivers realistic and actionable insights for decision-making.
